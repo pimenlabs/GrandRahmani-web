@@ -1,0 +1,48 @@
+#atas{
+    background-color: #EB0101;
+}
+#tulisan_atas{
+    color:white;
+}
+#headingku{
+
+    text-align: center;
+    background-color: #EEEEEE;
+    box-shadow: 0px -3px 37px #888888;
+    border-radius: 0px 0px 30px 30px;
+    margin-bottom: 15px;
+
+}
+#topmid{
+    text-align: justify;
+    font-size: 12px;
+
+}
+#mid{
+    box-shadow: 0px -5px 26px -13px #888888;
+    margin-top: 15px;
+    padding-top: 1px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+#footer{
+    background-color: #DEDEDE;
+}
+
+#us{
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+}
+#judul_home{
+    border:1px;
+    font-size: 30px;
+    color: white;
+}
+#isi_home{
+    border:1px;
+    font-size: 14px;
+    color: white;
+}
